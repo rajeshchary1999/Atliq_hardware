@@ -1,0 +1,4 @@
+1.  select Distinct(market) as list_of_markets from gdb023.dim_customer
+ where region = 'APAC';
+
+2.
